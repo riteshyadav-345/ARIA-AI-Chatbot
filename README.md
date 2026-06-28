@@ -58,7 +58,7 @@ ARIA: Hello! I'm ARIA, your rule-based AI assistant. How can I help?
 
 ---
 
-****## Project 2: Preference-Based Recommendation System 🎯****
+**## Project 2: Preference-Based Recommendation System 🎯**
 
 ### Goal
 Create a simple recommendation system based on user preferences.
